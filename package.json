@@ -1,0 +1,17 @@
+{
+  "name": "hapi.js-test",
+  "version": "1.0.0",
+  "description": "hapi test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "lucas seijo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^20.1.5"
+  }
+}
